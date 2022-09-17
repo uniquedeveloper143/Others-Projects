@@ -1,2 +1,2 @@
 # Others-Projects
-In this repository have mixied differents projects.
+In this repository have mixied differents projects with diffrent Technologies.
